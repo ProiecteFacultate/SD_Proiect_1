@@ -1,0 +1,245 @@
+N = 1000
+Max = 1000
+
+C++ Sort (Introsort): 0:0:0
+MergeSort: 0:0:0
+ShellSort2k: 0:0:0
+ShellSortKnuth: 0:0:0
+RadixSortBase10: 0:0:0
+RadixSortBinary: 0:0:0
+TimSort: 0:0:0
+CountingSort: 0:0:0
+
+
+N = 1000000
+Max = 1000
+
+C++ Sort (Introsort): 0:0:227
+MergeSort: 0:0:317
+ShellSort2k: 0:0:427
+ShellSortKnuth: 0:0:398
+RadixSortBase10: 0:0:139
+RadixSortBinary: 0:0:31
+TimSort: 0:0:265
+CountingSort: 0:0:7
+
+
+N = 100000000
+Max = 1000
+
+C++ Sort (Introsort): 0:31:289
+MergeSort: 0:42:342
+ShellSort2k: 1:11:777
+ShellSortKnuth: 0:55:646
+RadixSortBase10: 0:14:297
+RadixSortBinary: 0:3:459
+TimSort: 0:35:168
+CountingSort: 0:0:943
+
+
+N = 1000
+Max = 1000000
+
+C++ Sort (Introsort): 0:0:0
+MergeSort: 0:0:0
+ShellSort2k: 0:0:0
+ShellSortKnuth: 0:0:0
+RadixSortBase10: 0:0:0
+RadixSortBinary: 0:0:10
+TimSort: 0:0:0
+CountingSort: 0:0:7
+
+
+N = 1000000
+Max = 1000000
+
+C++ Sort (Introsort): 0:0:254
+MergeSort: 0:0:356
+ShellSort2k: 0:0:490
+ShellSortKnuth: 0:0:504
+RadixSortBase10: 0:0:205
+RadixSortBinary: 0:0:71
+TimSort: 0:0:285
+CountingSort: 0:0:20
+
+
+N = 100000000
+Max = 1000000
+
+C++ Sort (Introsort): 0:31:988
+MergeSort: 0:43:774
+ShellSort2k: 1:29:880
+ShellSortKnuth: 1:14:877
+RadixSortBase10: 0:22:235
+RadixSortBinary: 0:8:583
+TimSort: 0:37:384
+CountingSort: 0:1:125
+
+
+N = 1000
+Max = 1000000000
+
+C++ Sort (Introsort): 0:0:0
+MergeSort: 0:0:0
+ShellSort2k: 0:0:0
+ShellSortKnuth: 0:0:0
+RadixSortBase10: 0:0:0
+RadixSortBinary: 0:0:0
+TimSort: 0:0:0
+CountingSort: 0:8:467
+
+
+
+N = 1000000
+Max = 1000000000
+
+C++ Sort (Introsort): 0:0:266
+MergeSort: 0:0:364
+ShellSort2k: 0:0:551
+ShellSortKnuth: 0:0:600
+RadixSortBase10: 0:0:344
+RadixSortBinary: 0:0:80
+TimSort: 0:0:287
+CountingSort: 0:5:29
+
+
+
+
+N = 100000000
+Max = 1000000000
+
+C++ Sort (Introsort): 0:32:509
+MergeSort: 0:44:682
+ShellSort2k: 1:38:898
+ShellSortKnuth: 1:27:585
+RadixSortBase10: 0:31:900
+RadixSortBinary: 0:8:604
+TimSort: 0:36:975
+CountingSort: 0:7:162
+
+
+
+
+N = 1000
+Max = 3000000000
+
+C++ Sort (Introsort): 0:0:0
+MergeSort: 0:0:0
+ShellSort2k: 0:0:8
+ShellSortKnuth: 0:0:0
+RadixSortBase10: 0:0:0
+RadixSortBinary: 0:0:0
+TimSort: 0:0:0
+CountingSort: 2:25:828
+
+
+
+
+N = 1000000
+Max = 3000000000
+
+C++ Sort (Introsort): 0:0:249
+MergeSort: 0:0:314
+ShellSort2k: 0:0:419
+ShellSortKnuth: 0:0:357
+RadixSortBase10: 0:0:366
+RadixSortBinary: 0:0:79
+TimSort: 0:0:275
+CountingSort: 1:37:757
+
+
+
+
+N = 100000000
+Max = 3000000000
+
+C++ Sort (Introsort): 0:31:384
+MergeSort: 0:41:841
+ShellSort2k: 1:9:942
+ShellSortKnuth: 0:55:980
+RadixSortBase10: 0:35:207
+RadixSortBinary: 0:7:503
+TimSort: 0:34:665
+CountingSort: 1:48:559
+
+
+
+
+
+N = 1000
+Max = 1000000000000
+
+C++ Sort (Introsort): 0:0:0
+MergeSort: 0:0:0
+ShellSort2k: 0:0:8
+ShellSortKnuth: 0:0:0
+RadixSortBase10: 0:0:0
+RadixSortBinary: 0:0:0
+TimSort: 0:0:10
+CountingSort: 0:0:0        NU DUCE
+
+
+
+N = 1000000
+Max = 1000000000000
+
+C++ Sort (Introsort): 0:0:254
+MergeSort: 0:0:346
+ShellSort2k: 0:0:478
+ShellSortKnuth: 0:0:436
+RadixSortBase10: 0:0:419
+RadixSortBinary: 0:0:103
+TimSort: 0:0:273
+CountingSort: 0:0:0         NU DUCE
+
+
+
+N = 100000000
+Max = 1000000000000
+
+C++ Sort (Introsort): 0:31:505
+MergeSort: 0:43:119
+ShellSort2k: 1:29:55
+ShellSortKnuth: 1:12:58
+RadixSortBase10: 0:42:228
+RadixSortBinary: 0:11:241
+TimSort: 0:35:382
+CountingSort: 0:0:0       NU DUCE
+
+
+
+Teste:
+
+
+15
+1000
+1000
+1000000
+1000
+100000000
+1000
+1000
+1000000
+1000000
+1000000
+100000000
+1000000
+1000
+1000000000
+1000000
+1000000000
+100000000
+1000000000
+1000
+3000000000
+1000000
+3000000000
+100000000
+3000000000
+1000
+1000000000000
+1000000
+1000000000000
+100000000
+1000000000000
+

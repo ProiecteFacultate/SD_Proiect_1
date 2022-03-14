@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1646420404 source:d:\facultate\sd\proiect1\main.cpp
+	<iostream>
+	<chrono>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<math.h>
+	<fstream>
+
+1647184969 source:d:\facultate\sd\proiect1_gitrep\proiect1\main.cpp
+	<iostream>
+	<chrono>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<math.h>
+	<fstream>
+	<algorithm>
+
